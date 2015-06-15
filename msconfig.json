@@ -1,0 +1,5 @@
+{
+"microserviceInstanceId" : "Instance1",
+"microserviceName" : "microService1",
+"urlRoutePath" : "/ms1"
+}
